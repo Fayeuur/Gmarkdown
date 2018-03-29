@@ -6,9 +6,9 @@
 
   Drunk_player utilise la bibliothèque de traitement d'image OpenCV et est composé :
 
-    * d'une bibliothèque (drunk_player) contenant le code de base
-    * d'un programme graphique (drunk_player_gui) qui affiche le résultat à l'écran
-    * d'un programme console (drunk_player_cli) qui sort le résultat dans un fichier
+  * d'une bibliothèque (drunk_player) contenant le code de base
+  * d'un programme graphique (drunk_player_gui) qui affiche le résultat à l'écran
+  * d'un programme console (drunk_player_cli) qui sort le résultat dans un fichier
 
 ## Dépendances
 
@@ -18,10 +18,10 @@
 ## Compilation
 
     mkdir build
-    cd build
+    **cd** build
     cmake ..
-    make
+    **make**
 
 ## Utilisation
 
-  `./drunk_player_gui.out ../data/`
+  `./drunk_player_gui.out ../**data**/`
