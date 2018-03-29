@@ -27,3 +27,5 @@
 ## Utilisation
 
   `./drunk_player_gui.out ../`**`data`**`/`
+
+  ![alt text](https://raw.githubusercontent.com/Fayeuur/Gmarkdown/master/imgs/drunk_player_gui.png)
