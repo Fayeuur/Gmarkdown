@@ -17,11 +17,11 @@
 
 ## Compilation
 
-    mkdir build
-    **cd** build
-    cmake ..
-    **make**
+    > mkdir build
+    > **cd** build
+    > cmake ..
+    > **make**
 
 ## Utilisation
 
-  `./drunk_player_gui.out ../**data**/`
+  `./drunk_player_gui.out ../`**`data`**`/`
